@@ -1,0 +1,76 @@
+.header {
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header__logo {
+    width: 100px;
+    object-fit: contain;
+    /* can be contained in the parent element */
+    margin: 0px 20px;
+    padding-top: 10px;
+}
+
+.header__search {
+    flex: 1;
+    /* as a child element for header */
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.header__searchInput {
+    height: 12px !important;
+    /* to make sure that input and icon have the same "height" */
+    padding: 10px;
+    /* width: 100%;  can use this to grow the input as well*/
+    flex: 1;
+}
+
+.header__searchIcon {
+    padding: 6px;
+    background-color: #f9930d;
+    height: 22px !important;
+}
+
+.header__nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header__option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header__optionLineOne {
+    font-size: 10px;
+}
+
+.header__optionLineTwo {
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.header__optionBasket {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.header__basketCount {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
