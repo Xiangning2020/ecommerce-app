@@ -3,7 +3,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAKUcanLV0jmDdXAPZ_S_zzaFXz2yi9nOY",
+  apiKey: "YOUR_APIKEY",
   authDomain: "ecommerce-clone-xiangning.firebaseapp.com",
   databaseURL: "https://ecommerce-clone-xiangning.firebaseio.com",
   projectId: "ecommerce-clone-xiangning",
