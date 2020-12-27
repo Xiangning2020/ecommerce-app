@@ -6,27 +6,29 @@ Website is [here](https://ecommerce-clone-xiangning.web.app/). It may get slower
 
 Let's have a look at the layout of the website!
 
-image:
-
-![image](https://github.com/Xiangning2020/COVID-19-Tracker/blob/master/page.png)
+![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/amazon.png)
 
 Customers need to create their own accounts to sign in to store their information, selet products, purchase and check the order history.
 
-image: signin1
+
+![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/signin1.gif)
+
 
 If an account alreay exists or the password is not obey certain standards, there will be windows poping up.
 
-image:
+![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/signin2.gif)
 
 Also, customers can add/remove the products as they like on the shopping home page/basket page.
 
+![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/basket.gif)
+
 They can even remove the products on the purchase page and pay the order by all major debit and credit cards. And get their order history back.
+
+![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/purchase.gif)
 
 Once customers logged out, the order will be empty immediately and they can get their order history when they log in again.
 
-
-
-![image](https://github.com/Xiangning2020/COVID-19-Tracker/blob/master/mexico.gif)
+![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/orderhistory.gif)
 
 
 Thanks very much for the instruction of [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
