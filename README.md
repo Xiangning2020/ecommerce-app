@@ -4,10 +4,11 @@ This is an Amazon-clone app, which implements the basic functionalities of an ec
 
 Website is [here](https://ecommerce-clone-xiangning.web.app/). It may get slower to fetch the data outside USA.
 
-Let's have a look at the layout of the website!
+### Let's have a look at the layout of the website!
 
 ![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/amazon.png)
 
+### Sign in/out
 Customers need to create their own accounts to sign in to store their information, selet products, purchase and check the order history.
 
 
@@ -18,10 +19,12 @@ If an account alreay exists or the password is not obey certain standards, there
 
 ![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/signin2.gif)
 
+### Add/remove products
 Also, customers can add/remove the products as they like on the shopping home page/basket page.
 
 ![image](https://github.com/Xiangning2020/ecommerce-app/blob/main/basket.gif)
 
+### Payment && Orders
 They can even remove the products on the purchase page and pay the order by all major debit and credit cards. And get their order history back.
 Once customers logged out, the order will be empty immediately and they can get their order history when they log in again.
 
